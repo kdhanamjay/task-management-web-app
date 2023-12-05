@@ -13,20 +13,29 @@ TaskMaster is a robust full-stack task management application that allows users 
  + Mark subtasks as complete and move tasks between columns
  + Hide/show the board sidebar
 
+
 **Expected Behaviour:**
-       ** Boards**
+       
+  ** Boards**
+  
 + Different boards can be selected by clicking on their respective links in the sidebar.
 + Selecting 'Create New Board' in the sidebar opens the 'Add New Board' modal.
 + Selecting 'Edit Board' from the dropdown menu triggers the 'Edit Board' modal, allowing changes to details.
 + Columns are added and removed for the Add/Edit Board modals.
 + Deleting a board deletes all columns and tasks and requires confirmation.
-        **Columns**
+
+   **Columns**
+  
 + Before tasks can be added, a board must have at least one column. If no columns exist, the "Add New Task" button in the header is disabled.
 + Selecting 'Add New Column' in the board settings opens the 'Edit Board' modal, enabling the addition of columns.
-        **Tasks**
+
+  **Tasks**
+  
 + Assigning a new task places it at the bottom of the relevant column.
 + Changing a task's status moves it to the appropriate column.
-        **Bonus:**
+
+   **Bonus:**
+  
 + Tasks can be moved between columns by dragging and dropping them.
 
 
