@@ -39,3 +39,18 @@ TaskMaster is a robust full-stack task management application that allows users 
 + Tasks can be moved between columns by dragging and dropping them.
 
 
+**Built with**
+
+Semantic HTML5 markup
+
+CSS
+
+Flexbox
+
+Mobile-first workflow
+
+Drag and Drop API
+
+React - JS library
+
+Redux - State management tool
