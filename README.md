@@ -54,3 +54,12 @@ Drag and Drop API
 React - JS library
 
 Redux - State management tool
+
+
+**Execution of this project**
+
+1. Download the project
+2. Choose proper location of the drive and folder
+3. Open command prompt and change your project directory
+4. type npm start
+5. project runs automatcally and opens browser with http://localhost:3000/
